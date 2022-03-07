@@ -8,6 +8,7 @@ public class GitTestMain {
 		
 		
 		System.out.println("hotfix Branch");
+		System.out.println("Master Branch2");
 	}
 
 }
